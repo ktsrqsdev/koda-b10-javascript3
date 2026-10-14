@@ -42,6 +42,7 @@
 ```mermaid
     flowchart LR
     A@{ shape: circle, label: "Start" }
+    B@{ shape: rect, label: "bintang" }
 
     C@{ shape: rect, label: "a = 0" }
     D@{ shape: diamond, label: "a < 5" }
@@ -55,7 +56,8 @@
     K@{ shape: lean-r, label: "star" }
     L@{ shape: dbl-circ, label: "Stop" }
 
-    A --> C
+    A --> B
+    B --> C
     C --> D
     D --TRUE--> E
     E --> F
