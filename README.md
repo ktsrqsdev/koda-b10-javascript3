@@ -1,5 +1,5 @@
 ```mermaid
-    flowchart TD
+    flowchart LR
     A@{ shape: circle, label: "Start" }
     B@{ shape: rect, label: "bintang" }
 
