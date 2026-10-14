@@ -77,7 +77,7 @@
 ```
 
 ``` mermaid
-    flowchart TD
+    flowchart LR
     
     start((Start))
     stop(((Stop)))
@@ -129,7 +129,7 @@
 ```
 
 ``` mermaid
-flowchart TD
+flowchart LR
     start((Start))
     stop(((Stop)))
 
