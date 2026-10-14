@@ -45,14 +45,14 @@
 
     C@{ shape: rect, label: "a = 0" }
     D@{ shape: diamond, label: "a < 5" }
-    E@{ shape: rect, label: "bintang = #quot;#quot;" }
+    E@{ shape: rect, label: "star = #quot;#quot;" }
 
     F@{ shape: rect, label: "b = 0" }
     G@{ shape: diamond, label: "b <= a" }
-    H@{ shape: rect, label: "bintang += #quot;*#quot;" }
+    H@{ shape: rect, label: "star += #quot;*#quot;" }
     I@{ shape: rect, label: "b++" }
     J@{ shape: rect, label: "a++" }
-    K@{ shape: lean-r, label: "bintang" }
+    K@{ shape: lean-r, label: "star" }
     L@{ shape: dbl-circ, label: "Stop" }
 
     A --> C
