@@ -88,7 +88,7 @@
     spasi[spasi = #quot;#quot;;]
     bintang[bintang = #quot;#quot;;]
     addSpasi[spasi += #quot; #quot;;]
-    addBintang[bintang += #quot; #quot;;]
+    addBintang[bintang += #quot;* #quot;;]
     output[/spasi + bintang/]
 
     iteI[i++]
