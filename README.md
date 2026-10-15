@@ -119,7 +119,7 @@
     konI --FALSE--> stop
 
 ```
-
+### output:
 ```
     *
    * *
@@ -163,7 +163,7 @@ flowchart LR
     konI --FALSE--> stop
 
 ```
-
+### output:
 ```
 *****
 *   *
